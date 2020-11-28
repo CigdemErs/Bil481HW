@@ -21,6 +21,6 @@ Gradle
 
 Travis CI
 
-https://travis-ci.com/CigdemErs/Bil481HW.svg?branch=main)](https://travis-ci.com/CigdemErs/Bil481HW
+[![Build Status](https://travis-ci.com/CigdemErs/Bil481HW.svg?branch=main)](https://travis-ci.com/CigdemErs/Bil481HW)
  
  
